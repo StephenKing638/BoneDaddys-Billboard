@@ -4,7 +4,7 @@
 
 Displays the provided `image.png` on the window in the bottom right of the screen, the max dimension is defined within this properties file `maxdim.txt`. To run, just open the `Billboard.exe` - easy!
 
-**I DO NOT OWN THE PROVIDED DEMO IMAGE FOR THIS APP, ALL CREDIT GOES TO THE GREATEST METAL BAND ON EARTH: DEATH**
+**I DO NOT OWN THE PROVIDED IMAGE FOR THIS APP, ALL CREDIT FOR THE IMAGE GOES TO THE GREATEST METAL BAND ON EARTH: DEATH. FROM MY UNDERSTANDING (APOLOGIES IF I'M WRONG), THE COPYRIGHT OWNER FOR THIS PARTICULAR IMAGE IS CHUCK SCHULDINER.**
 
 # ![alt-text](res/img1.png)
 
